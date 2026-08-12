@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jeisson Javier Silva Beltrán
+# Hola, soy Jeisson Javier Silva Beltrán
 
 **Desarrollador de software en formación continua | Automatización | Soporte IT especializado**
 
@@ -8,7 +8,7 @@ Actualmente continúo fortaleciendo mis conocimientos en **Python, bases de dato
 
 ---
 
-## 🚀 Áreas de interés
+## Áreas de interés
 
 - Desarrollo de software
 - Automatización de procesos
@@ -21,7 +21,7 @@ Actualmente continúo fortaleciendo mis conocimientos en **Python, bases de dato
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ### Desarrollo
 
@@ -53,9 +53,9 @@ Actualmente continúo fortaleciendo mis conocimientos en **Python, bases de dato
 
 ---
 
-## ⭐ Proyectos destacados
+## Proyectos destacados
 
-### 📝 Autorización Digital de Descuento
+### Autorización Digital de Descuento
 
 Aplicación web para digitalizar autorizaciones asociadas a dispositivos corporativos, con validación de colaboradores, captura de información, firma digital e integración con Microsoft Power Automate.
 
@@ -65,7 +65,7 @@ Aplicación web para digitalizar autorizaciones asociadas a dispositivos corpora
 
 ---
 
-### 🔄 Formulario de Cambio de Turno
+### Formulario de Cambio de Turno
 
 Herramienta web orientada a digitalizar solicitudes operativas de cambio de turno mediante validaciones y captura estructurada de información.
 
@@ -75,7 +75,7 @@ Herramienta web orientada a digitalizar solicitudes operativas de cambio de turn
 
 ---
 
-### 🎓 Herramienta de Capacitación Empresarial
+### Herramienta de Capacitación Empresarial
 
 Aplicación web creada para apoyar procesos internos de capacitación y consulta de información desde una interfaz sencilla y adaptable.
 
@@ -85,7 +85,7 @@ Aplicación web creada para apoyar procesos internos de capacitación y consulta
 
 ---
 
-### 📦 Formulario de Gestión de Inventario
+### Formulario de Gestión de Inventario
 
 Solución web para apoyar el registro y control de información relacionada con equipos e inventario.
 
@@ -95,7 +95,7 @@ Solución web para apoyar el registro y control de información relacionada con 
 
 ---
 
-### 🏥 Salud Vital
+### Salud Vital
 
 Proyecto académico modular para la gestión de citas médicas. Incluye componentes de frontend, backend, persistencia, base de datos, API REST y aplicación móvil.
 
@@ -107,7 +107,7 @@ Proyecto académico modular para la gestión de citas médicas. Incluye componen
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 - Python aplicado a automatización y proyectos reales
 - SQL y modelado de datos
@@ -117,13 +117,13 @@ Proyecto académico modular para la gestión de citas médicas. Incluye componen
 
 ---
 
-## 🎯 Enfoque profesional
+## Enfoque profesional
 
 Busco seguir evolucionando desde mi experiencia en soporte IT hacia posiciones enfocadas en **desarrollo de software, automatización y construcción de herramientas internas**, aprovechando mi conocimiento de procesos empresariales y mi experiencia resolviendo problemas técnicos reales.
 
 ---
 
-## 📫 GitHub
+## GitHub
 
 Puedes explorar mis proyectos aquí:
 
